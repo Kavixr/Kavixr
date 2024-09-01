@@ -13,7 +13,6 @@
 
 
 - 📚 I’m currently Study on **University of Westminster**
-- 👀 I enjoy building and contributing to projects that solve real-world problems.
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Java**
 - ⚡ Fun fact: I love to play cricket and swim.
