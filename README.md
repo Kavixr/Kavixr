@@ -53,18 +53,18 @@
 
 ---
 
-<h3 align="center">📈 GitHub Activity</h3>
+<h3 align="left">📈 GitHub Activity:</h3>
 
-<!-- ✅ Centered Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavixr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavixr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kavixr" />
 </p>
 
-<!-- ✅ Two Stats Side by Side -->
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kavixr&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kavixr&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavixr&show_icons=true&locale=en&theme=tokyonight" alt="kavixr" />
 </p>
 
-<br clear="both"/>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavixr&theme=tokyonight" alt="kavixr" />
+</p>
