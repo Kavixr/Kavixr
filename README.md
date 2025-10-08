@@ -68,7 +68,3 @@
 
 <br clear="both"/>
 
-<!-- ✅ Optional: Contribution Graph Centered Below -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavixr&theme=tokyonight" alt="Contribution Graph" />
-</p>
