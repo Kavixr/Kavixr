@@ -1,4 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/kavixr)
+[![MasterHead](https://autogpt.net/wp-content/uploads/2024/05/adam_bidd_a_pixel_art_style_of_a_guy_sitting_in_front_of_his__6a152c98-176d-469c-82b0-4bb0bd5f82eb_0.jpg)](https://your-website-or-link-here)
+
 
 <h1 align="center">Hi 👋, I'm Kavindu Rajapaksha</h1>
 <h3 align="center">🎓 BSc (Hons) Computer Science Undergraduate at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster.</h3>
