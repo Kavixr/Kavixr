@@ -54,18 +54,22 @@
 
 ---
 
-<h3 align="left">📈 GitHub Activity:</h3>
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kavixr&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kavixr&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kavixr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavixr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kavixr" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavixr&show_icons=true&locale=en&theme=tokyonight" alt="kavixr" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavixr&theme=tokyonight" alt="kavixr" />
-</p>
+---
